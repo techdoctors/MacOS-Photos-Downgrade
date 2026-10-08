@@ -10,7 +10,7 @@ restore exactly, but keep your own backup of any library you care about.
 
 ## Download and install
 
-1. Go to the [**Releases**](../../releases/latest) page and download
+1. Go to the [**Releases**](https://github.com/techdoctors/photos-downgrade/releases/latest) page and download
    **Photos-Downgrade-1.0.zip** (under *Assets*).
 2. Double-click the zip to unpack it, then drag **Photos Downgrade** into your
    **Applications** folder.
