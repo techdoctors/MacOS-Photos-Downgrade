@@ -1,0 +1,7 @@
+.build/
+build/
+*.photoslibrary
+!Resources/Templates/*.photoslibrary
+*(Downgrade Backups)/
+build.zip
+.DS_Store

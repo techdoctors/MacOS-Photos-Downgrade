@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ExpandedSidebarItemIdentifiers</key>
+	<array>
+		<string>6FF71EC6-7DF4-469B-9214-AC6EC8FD09F3/L0/020</string>
+		<string>PXTransientCollectionIdentifierUtilities</string>
+	</array>
+	<key>IPXWorkspaceControllerZoomLevelsKey</key>
+	<dict>
+		<key>kZoomLevelIdentifierPhotosGrid</key>
+		<integer>2</integer>
+	</dict>
+	<key>LastAddToDestination</key>
+	<string>6A10B77F-8EDA-4867-9985-76C58E2040EC/L0/040</string>
+	<key>LastAddToDestinationDate</key>
+	<date>2026-10-02T19:29:38Z</date>
+	<key>PeoplePetsHomeVisibilitySourceLastKnownHasHumans</key>
+	<false/>
+	<key>PeoplePetsHomeVisibilitySourceLastKnownHasPets</key>
+	<false/>
+</dict>
+</plist>
